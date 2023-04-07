@@ -1,3 +1,3 @@
 # internet-based-programing-
 internet based programing
-assigment sumitted to dr.kursat mustafa
+assignment sumitted to dr.kursat mustafa
